@@ -1,7 +1,7 @@
-# 📚 Java Projects from Codecademy 🚀
+# 📚 Java Projects 🚀
 
 Welcome to my Java Projects Repository 🎉  
-This repository contains all my Codecademy Java projects, as I work through the Codecademy Java course to strengthen my programming skills. 🖥️✨  
+This repository contains all my Java projects from different academic exercises, at the moment I am working through the Codecademy Java course to strengthen my programming skills. 🖥️✨  
 
 ---
 
